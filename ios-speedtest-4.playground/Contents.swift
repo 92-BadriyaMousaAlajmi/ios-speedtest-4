@@ -5,7 +5,7 @@ import UIKit
 //: # 1️⃣ for-in loop
 
 //MARK: for- in loop خمس مرات باستخدام ال "iOS" قم بطباعه
-for i in 1...5
+for _ in 1...5
 {
     print("ios")
 }
